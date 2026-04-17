@@ -1,8 +1,20 @@
-# options specified here will apply to all posts in this folder
-
-# freeze computational output
-# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+# Opciones aplicadas a todos los posts de esta carpeta
 freeze: true
 
-# Enable banner style title blocks
+# Estética del título
 title-block-banner: true
+
+# Configuración de formato
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: "Contenido"
+    toc-depth: 3
+    # --- Toques extra para un perfil de Data Science ---
+    code-fold: true        # Esconde el código por defecto (limpieza visual)
+    code-copy: true        # Añade botón para copiar código
+    code-tools: true       # Permite ver el código fuente del post
+    number-sections: true  # Numeración técnica (1, 1.1, etc.)
+    smooth-scroll: true    # Desplazamiento suave al usar el índice
+    

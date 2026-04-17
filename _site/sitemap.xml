@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://your-website-url.example.com/presentations.html</loc>
+    <lastmod>2026-04-17T22:14:41.767Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
+    <lastmod>2026-04-17T22:35:41.168Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/dashboards.html</loc>
+    <lastmod>2026-04-17T22:07:16.389Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/about.html</loc>
+    <lastmod>2026-04-17T20:42:50.178Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/index.html</loc>
+    <lastmod>2026-04-17T21:55:34.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <lastmod>2026-04-17T20:42:49.949Z</lastmod>
+  </url>
+</urlset>

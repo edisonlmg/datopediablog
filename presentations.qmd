@@ -1,0 +1,15 @@
+---
+title: "Presentaciones y Ponencias"
+listing:
+  contents: presentaciones
+  type: grid
+  sort: "date desc"
+  grid-columns: 3
+  image-height: 200px
+  categories: true
+  fields: [image, date, title, subtitle]
+page-layout: full
+---
+
+Repositorio de diapositivas sobre inversión pública, transparencia y ciencia de datos presentadas en conferencias y talleres.
+

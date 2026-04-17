@@ -2,22 +2,34 @@ project:
   type: website
 
 website:
-  description: "A blog built with Quarto"
+  description: "Advanced analysis of public data"
   site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
   title: "datopediablog"
   navbar:
     right:
       - about.qmd
+      - text: "Dashboards"
+        href: dashboards.qmd
+      - text: "Presentaciones"
+        href: presentations.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/edisonlmg
+      - icon: linkedin
+        href: https://linkedin.com/in/edisonlmg
+      - icon: twitter
+        href: https://x.com/EdisonMondragon
       - icon: bluesky
-        href: https://bsky.app/
+        href: https://bsky.app/edisonlmg
 format:
   html:
     theme:
-      - cosmo
+      - yeti
       - brand
     css: styles.css
+    code-fold: true
+    code-copy: true
+    code-tools: true
+    highlight-style: github
 
 editor: visual
 
