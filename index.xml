@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>datopediablog</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://edisonlmg.github.io/datopediablog/</link>
+<atom:link href="https://edisonlmg.github.io/datopediablog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Advanced analysis of public data</description>
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Fri, 17 Apr 2026 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <link>https://edisonlmg.github.io/datopediablog/posts/post-with-code/</link>
   <description><![CDATA[ 
 
 
@@ -46,14 +46,14 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <guid>https://edisonlmg.github.io/datopediablog/posts/post-with-code/</guid>
   <pubDate>Fri, 17 Apr 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://edisonlmg.github.io/datopediablog/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
   <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://edisonlmg.github.io/datopediablog/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -61,7 +61,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
 
 <p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://edisonlmg.github.io/datopediablog/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
@@ -70,7 +70,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
  ]]></description>
   <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>https://edisonlmg.github.io/datopediablog/posts/welcome/</guid>
   <pubDate>Tue, 14 Apr 2026 05:00:00 GMT</pubDate>
 </item>
 </channel>

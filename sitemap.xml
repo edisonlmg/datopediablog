@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/presentations.html</loc>
+    <loc>https://edisonlmg.github.io/datopediablog/presentations.html</loc>
     <lastmod>2026-04-20T02:52:51.764Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
+    <loc>https://edisonlmg.github.io/datopediablog/posts/post-with-code/index.html</loc>
     <lastmod>2026-04-20T02:52:51.764Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/dashboards.html</loc>
+    <loc>https://edisonlmg.github.io/datopediablog/dashboards.html</loc>
     <lastmod>2026-04-20T02:52:51.764Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
+    <loc>https://edisonlmg.github.io/datopediablog/about.html</loc>
     <lastmod>2026-04-20T02:52:51.764Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
+    <loc>https://edisonlmg.github.io/datopediablog/dashboards/sbs_financial_system/sbs_financial_system.html</loc>
+    <lastmod>2026-04-21T03:20:34.577Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edisonlmg.github.io/datopediablog/index.html</loc>
     <lastmod>2026-04-20T02:52:51.764Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <loc>https://edisonlmg.github.io/datopediablog/posts/welcome/index.html</loc>
     <lastmod>2026-04-20T02:52:51.764Z</lastmod>
   </url>
 </urlset>
