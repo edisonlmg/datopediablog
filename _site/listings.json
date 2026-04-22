@@ -5,7 +5,9 @@
   },
   {
     "listing": "/dashboards.html",
-    "items": []
+    "items": [
+      "/dashboards/sbs_financial_system/sbs_financial_system.html"
+    ]
   },
   {
     "listing": "/index.html",

@@ -1,9 +1,12 @@
 project:
   type: website
+  resources:
+    - CNAME
 
 website:
   description: "Advanced analysis of public data"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://edisonlmg.github.io/datopediablog/
+  google-analytics: "G-Y4LXHS8LXT"
   title: "datopediablog"
   navbar:
     right:
@@ -12,14 +15,7 @@ website:
         href: dashboards.qmd
       - text: "Presentaciones"
         href: presentations.qmd
-      - icon: github
-        href: https://github.com/edisonlmg
-      - icon: linkedin
-        href: https://linkedin.com/in/edisonlmg
-      - icon: twitter
-        href: https://x.com/EdisonMondragon
-      - icon: bluesky
-        href: https://bsky.app/edisonlmg
+
 format:
   html:
     theme:

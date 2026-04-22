@@ -1,15 +1,15 @@
 ---
-title: "Dashboards de Inversión y Datos"
+title: "Dashboards basados en información pública"
 listing:
-  contents: dashboards
-  type: grid # Esto crea el efecto de tarjetas de la imagen
+  contents:
+    - dashboards
+  type: grid
   sort: "date desc"
   grid-columns: 3
   image-height: 250px
-  fields: [image, title, reading-time, description] # Define qué se ve en la tarjeta
+  fields: [image, title, reading-time, description]
   categories: true
 page-layout: full
 ---
 
-Aquí encontrarás herramientas interactivas desarrolladas para el monitoreo de la inversión pública y análisis socioeconómico.
 
