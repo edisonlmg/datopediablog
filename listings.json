@@ -1,12 +1,8 @@
 [
   {
     "listing": "/presentations.html",
-    "items": []
-  },
-  {
-    "listing": "/dashboards.html",
     "items": [
-      "/dashboards/sbs_financial_system/sbs_financial_system.html"
+      "/presentations/sbs_financial_system/sbs_financial_system.html"
     ]
   },
   {
@@ -15,5 +11,15 @@
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/dashboards.html",
+    "items": [
+      "/dashboards/sbs_financial_system/sbs_financial_system.html"
+    ]
+  },
+  {
+    "listing": "/datasets.html",
+    "items": []
   }
 ]
