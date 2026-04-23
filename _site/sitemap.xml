@@ -2,15 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://edisonlmg.github.io/datopediablog/presentations.html</loc>
+    <lastmod>2026-04-23T02:53:15.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edisonlmg.github.io/datopediablog/posts/welcome/index.html</loc>
     <lastmod>2026-04-20T02:52:51.764Z</lastmod>
   </url>
   <url>
-    <loc>https://edisonlmg.github.io/datopediablog/posts/post-with-code/index.html</loc>
-    <lastmod>2026-04-20T02:52:51.764Z</lastmod>
+    <loc>https://edisonlmg.github.io/datopediablog/index.html</loc>
+    <lastmod>2026-04-23T03:00:15.222Z</lastmod>
   </url>
   <url>
     <loc>https://edisonlmg.github.io/datopediablog/dashboards.html</loc>
-    <lastmod>2026-04-22T03:29:46.541Z</lastmod>
+    <lastmod>2026-04-23T00:45:53.846Z</lastmod>
   </url>
   <url>
     <loc>https://edisonlmg.github.io/datopediablog/about.html</loc>
@@ -21,11 +25,15 @@
     <lastmod>2026-04-22T03:44:48.083Z</lastmod>
   </url>
   <url>
-    <loc>https://edisonlmg.github.io/datopediablog/index.html</loc>
+    <loc>https://edisonlmg.github.io/datopediablog/datasets.html</loc>
+    <lastmod>2026-04-23T00:48:07.294Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edisonlmg.github.io/datopediablog/posts/post-with-code/index.html</loc>
     <lastmod>2026-04-20T02:52:51.764Z</lastmod>
   </url>
   <url>
-    <loc>https://edisonlmg.github.io/datopediablog/posts/welcome/index.html</loc>
-    <lastmod>2026-04-20T02:52:51.764Z</lastmod>
+    <loc>https://edisonlmg.github.io/datopediablog/presentations/sbs_financial_system/sbs_financial_system.html</loc>
+    <lastmod>2026-04-23T02:46:50.978Z</lastmod>
   </url>
 </urlset>

@@ -2,16 +2,23 @@
   {
     "objectID": "presentations.html",
     "href": "presentations.html",
-    "title": "Presentaciones y Ponencias",
+    "title": "Presentaciones",
     "section": "",
-    "text": "Repositorio de diapositivas sobre inversión pública, transparencia y ciencia de datos presentadas en conferencias y talleres.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Repositorio de diapositivas sobre inversión pública, transparencia y ciencia de datos presentadas en conferencias y talleres.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResultados de empresas del sistema financiero\n\n\nFebrero 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is a post with executable code.\n\n\nCode\n1 + 1\n\n\n[1] 2"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "datopediablog",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 17, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 14, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "dashboards.html",
@@ -28,17 +35,38 @@
     "text": "About this blog"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "datopediablog",
+    "objectID": "datasets.html",
+    "href": "datasets.html",
+    "title": "Repositorio de Datasets",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 17, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 14, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Code\n1 + 1\n\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#hoka-2",
+    "href": "posts/post-with-code/index.html#hoka-2",
+    "title": "Post With Code",
+    "section": "2.1 hoka 2",
+    "text": "2.1 hoka 2"
+  },
+  {
+    "objectID": "presentations/sbs_financial_system/sbs_financial_system.html#objetivos-del-proyecto",
+    "href": "presentations/sbs_financial_system/sbs_financial_system.html#objetivos-del-proyecto",
+    "title": "Resultados de empresas del sistema financiero",
+    "section": "Objetivos del Proyecto",
+    "text": "Objetivos del Proyecto\n\nEvaluar el cumplimiento de la Ley de Transparencia.\nAutomatizar la recolección de datos mediante Web Scraping.\nGenerar un ranking municipal."
+  },
+  {
+    "objectID": "presentations/sbs_financial_system/sbs_financial_system.html#análisis-de-datos-en-r",
+    "href": "presentations/sbs_financial_system/sbs_financial_system.html#análisis-de-datos-en-r",
+    "title": "Resultados de empresas del sistema financiero",
+    "section": "Análisis de Datos en R",
+    "text": "Análisis de Datos en R\nPuedes incluir bloques de código que se ejecuten y muestren resultados:\n\n\nCode\nsummary(cars)\n\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
   }
 ]

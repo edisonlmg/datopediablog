@@ -1,5 +1,5 @@
 # Opciones aplicadas a todos los posts de esta carpeta
-freeze: true
+# freeze: true
 
 # Estética del título
 title-block-banner: true

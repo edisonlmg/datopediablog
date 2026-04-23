@@ -5,11 +5,9 @@ listing:
     - dashboards
   type: grid
   sort: "date desc"
-  grid-columns: 3
+  grid-columns: 2
   image-height: 250px
   fields: [image, title, reading-time, description]
   categories: true
 page-layout: full
 ---
-
-

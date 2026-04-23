@@ -9,7 +9,7 @@
 <link>https://edisonlmg.github.io/datopediablog/</link>
 <atom:link href="https://edisonlmg.github.io/datopediablog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Advanced analysis of public data</description>
-<generator>quarto-1.8.25</generator>
+<generator>quarto-1.9.36</generator>
 <lastBuildDate>Fri, 17 Apr 2026 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
@@ -21,7 +21,8 @@
 
 
 
-<p>This is a post with executable code.</p>
+<section id="this-is-a-post-with-executable-code." class="level1" data-number="1">
+
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -37,10 +38,17 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 <pre><code>[1] 2</code></pre>
 </div>
 </div>
+</section>
+<section id="hoka" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Hoka</h1>
+<section id="hoka-2" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="hoka-2"><span class="header-section-number">2.1</span> hoka 2</h2>
 
 
 <!-- -->
 
+</section>
+</section>
 
  ]]></description>
   <category>news</category>
